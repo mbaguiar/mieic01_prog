@@ -1,3 +1,3 @@
 # mieic01_prog
 
-git de PROG 
+git de mieic PROG

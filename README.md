@@ -1,3 +1,3 @@
 # mieic01_prog
 
-git de mieic PROG
+exercices mieic prog
